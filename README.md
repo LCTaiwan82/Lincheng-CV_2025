@@ -49,7 +49,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照</td>
-											<td><li>456</li><li>托福600分</li></td>	
+											<td><li>全民英檢高級</li><li>托福600分</li></td>	
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
