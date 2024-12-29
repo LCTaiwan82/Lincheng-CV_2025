@@ -30,8 +30,10 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 									<tbody>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷</td>
-											<td><li>碩士</li>
-											<li>學士</li></td>	
+											<td>
+	   										<li>博士: 台灣大學語言學研究所肄業</li>
+	   										<li>碩士: 政治大學語言學研究所畢業</li>
+											</td>	
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
