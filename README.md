@@ -107,7 +107,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 									</li>
 									<li>
 										<h4>Email</h4>
-										<a href="mailto:#">123@gmail.com</a>
+										<a href="mailto:#">lincheng4567@yahoo.com.tw</a>
 									</li>
 								</ul>
 							</div>
