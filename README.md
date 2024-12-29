@@ -32,7 +32,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷</td>
 											<td>
 	   										<li>博士: Univ. of Montana語言學研究所肄業</li>
-	   										<li>碩士: 政治大學語言學研究所畢業</li>
+	   										<li>碩士: 政治大學語言學研究所</li>
 											</td>	
 										</tr>
 										<tr>
@@ -45,19 +45,18 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域</td>
-											<td><li>在工作中播空學習</li>
-	   										<li>在學習中播空工作</li></td>
+											<td><li>在工作中播空學習、在學習中播空工作</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照</td>
-											<td><li>456</li><li>789</li></td>	
+											<td><li>456</li><li>托福600分</li></td>	
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
 											<td><li>E-Mail：<a href="mailto:#">123@gmail.com</a></li>
 											<li>手機：0937-470012</li>
 											<li>休閒活動：睡覺、學習、吃</li>
-											<li>內向型人格</li>
+											<li>內向害羞、不擅言詞</li>
 											</td>	
 										</tr>
 									</tbody>
@@ -69,11 +68,11 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 								<div>
 										<div class="au">
 											<ol>
-												<li>攝影</li>
-												<li>影像後製</li>
-												<li>網頁設計</li>
-												<li>手繪作品</li>
-												<li>廣告企劃</li>
+												<li>撰文</li>
+												<li>文案編輯</li>
+												<li>網站企劃</li>
+												<li>專案管理</li>
+												<li>國際事務</li>
 											</ol>
 										</div>
 										</div>
