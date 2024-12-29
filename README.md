@@ -11,7 +11,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 				<header class="xyz">
 						<div>
 						<section class="aba">
-							<img src="images/ox-1.jpg">
+							<img src="Lincheng_CSD+.jpg">
 							<h4>林誠</h4>
 							
 							<h4>個人履歷</h4>								
