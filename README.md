@@ -45,8 +45,8 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域</td>
-											<td><li>在工作中播空學習</li></td>
-	   										<td><li>在學習中播空工作</li></td>
+											<td><li>在工作中播空學習</li>
+	   										<li>在學習中播空工作</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照</td>
