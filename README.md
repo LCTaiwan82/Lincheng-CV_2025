@@ -41,7 +41,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 	   										<li>1. 媒體代理商 2024</li>
 											<li>2. 聖僑資訊 2016-24</li>
 											<li>3. 瑞士榮格集團 2012-15</li>
-	   										<li>4. 中央研究院史語所&語言所 2007-10</li></td>	
+	   										</td>	
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域</td>
