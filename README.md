@@ -52,9 +52,9 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
 											<td><li>E-Mail：<a href="mailto:#">123@gmail.com</a></li>
-											<li>手機：0909-123456</li>
-											<li>休閒活動：踏青、參觀展覽、攝影</li>
-											<li>O型  星座</li>
+											<li>手機：0937-470012</li>
+											<li>休閒活動：睡覺、學習、吃</li>
+											<li>內向型人格</li>
 											</td>	
 										</tr>
 									</tbody>
