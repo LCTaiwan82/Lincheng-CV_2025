@@ -5,7 +5,7 @@
     <head>
 		<title>林誠CV</title>
 		<link rel="stylesheet" href="test0806.css">
-		</head>
+		</head> 
 		<body>
 			<div id="flset"> 
 				<header class="xyz"> 
