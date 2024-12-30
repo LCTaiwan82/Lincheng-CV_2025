@@ -1,6 +1,6 @@
 # Lincheng-CV_2025
 您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。 
-<!doctype html>
+
 <html>
     <head>
 		<title>林誠CV</title>
