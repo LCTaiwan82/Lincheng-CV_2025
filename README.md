@@ -71,7 +71,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 											<td><li>電郵：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
 											<li>手機：0937-470012</li>
 											<li>休閒活動：睡覺、學習、運動</li>
-											<li>個性特點: 內向害羞、不擅言詞</li>
+											<li>個性特點: 內向害羞、不擅言詞</li> 
 											</td>	
 										</tr>
 									</tbody>
