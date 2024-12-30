@@ -67,8 +67,8 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 												<li>法語: 簡單溝通</li></td>
 										</tr>
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
-											<td><li>E-Mail：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">聯絡資訊</td>
+											<td><li>電郵：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
 											<li>手機：0937-470012</li>
 											<li>休閒活動：睡覺、學習、運動</li>
 											<li>個性特點: 內向害羞、不擅言詞</li>
