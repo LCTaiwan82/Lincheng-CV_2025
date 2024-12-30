@@ -101,7 +101,7 @@
 								</section>
 					<hr>
 					<section>
-						<h2>Member Login</h2>
+						<h2>聯繫我請在下留言</h2>
 						<div class="row">
 							<div class="au">
 								<form method="post" action="">
