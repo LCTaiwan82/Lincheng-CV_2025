@@ -1,5 +1,5 @@
 # Lincheng-CV_2025
-This is an introduction about me, Lincheng, an industrial journalist in the machine tool industry. 
+您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。 
 <!doctype html>
 <html>
     <head>
