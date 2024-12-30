@@ -40,7 +40,7 @@
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
 											<td>
 	   										<li>1. 媒體代理商_經理 2024</li>
-											<li>2. 聖僑資訊_PM 2016-23</li>
+											<li>2. 聖僑資訊_PM 2016-23</li> 
 											<li>3. 瑞士榮格集團_記者 2012-15</li>
 	   										</td>	
 										</tr>
