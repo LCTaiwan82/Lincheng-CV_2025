@@ -31,16 +31,17 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷</td>
 											<td>
-	   										<li>博士: Univ. of Montana語言學研究所肄業</li>
-	   										<li>碩士: 政治大學語言學研究所</li>
+	   										<li>博士: 肄業_北美洲原住民語料庫研究</li>
+	   										<li>碩士: 畢業_心理語言學、中國方言學研究</li>
+	      										<li>學士: 畢業_外語系</li>
 											</td>	
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
 											<td>
-	   										<li>1. 媒體代理商 2024</li>
-											<li>2. 聖僑資訊 2016-24</li>
-											<li>3. 瑞士榮格集團 2012-15</li>
+	   										<li>1. 媒體代理商_經理 2024</li>
+											<li>2. 聖僑資訊_特助 2016-24</li>
+											<li>3. 瑞士榮格集團_記者 2012-15</li>
 	   										</td>	
 										</tr>
 										<tr>
