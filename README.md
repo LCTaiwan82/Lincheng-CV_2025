@@ -83,7 +83,8 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										</div>
 										</div>
 										<div>
-										<iframe class="mpifr" src="https://maps.app.goo.gl/Miuek5cbKCqKLpAY7" loading="lazy"></iframe>
+										
+	  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.999010331444!2d-84.35915692405203!3d39.12925397167547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ab89b9d49753%3A0x25d68459912911a0!2zNjkxNSBWYWxsZXkgQXZlLCBDaW5jaW5uYXRpLCBPSCA0NTI0NOe-juWciw!5e0!3m2!1szh-TW!2stw!4v1735521861288!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 										</div>
 								</section>
 					<hr>
