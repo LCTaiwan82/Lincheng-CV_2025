@@ -40,7 +40,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
 											<td>
 	   										<li>1. 媒體代理商_經理 2024</li>
-											<li>2. 聖僑資訊_特助 2016-24</li>
+											<li>2. 聖僑資訊_PM 2016-24</li>
 											<li>3. 瑞士榮格集團_記者 2012-15</li>
 	   										</td>	
 										</tr>
@@ -54,14 +54,15 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照</td>
-											<td><li>全民英檢高級</li><li>托福600分</li></td>	
+											<td><li>全民英檢高級</li>
+	   										<li>托福600分</li></td>	
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
 											<td><li>E-Mail：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
 											<li>手機：0937-470012</li>
-											<li>休閒活動：睡覺、學習、吃</li>
-											<li>內向害羞、不擅言詞</li>
+											<li>休閒活動：睡覺、學習、運動</li>
+											<li>個性特點: 內向害羞、不擅言詞</li>
 											</td>	
 										</tr>
 									</tbody>
