@@ -50,12 +50,21 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 												<li>文案編輯</li>
 												<li>網站企劃</li>
 												<li>專案管理</li>
-												<li>國際事務</li></td>
+												<li>國際事務溝通</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照</td>
 											<td><li>全民英檢高級</li>
 	   										<li>托福600分</li></td>	
+										</tr>
+	  									<tr>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力</td>
+											<td>    <li>中文_簡、繁體: 母語溝通、書寫</li>
+	   											<li>中文_粵語、閩南語: 簡單溝通</li>
+												<li>美式英語: 母語溝通、書寫</li>
+												<li>奧地利德語: 簡單溝通</li>
+												<li>現代希伯來語: 簡單溝通</li>
+												<li>法語: 簡單溝通</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
