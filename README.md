@@ -16,7 +16,7 @@
 							
 							<h4>個人履歷</h4>								
 							
-								<h6>designed by Evon</h6> 
+								<h6>designed by Evon</h6>  
 							</section>
 							
 							
