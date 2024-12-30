@@ -58,7 +58,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">其他資訊</td>
-											<td><li>E-Mail：<a href="mailto:#">123@gmail.com</a></li>
+											<td><li>E-Mail：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
 											<li>手機：0937-470012</li>
 											<li>休閒活動：睡覺、學習、吃</li>
 											<li>內向害羞、不擅言詞</li>
@@ -73,11 +73,11 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 								<div>
 										<div class="au">
 											<ol>
-												<li>撰文</li>
-												<li>文案編輯</li>
-												<li>網站企劃</li>
-												<li>專案管理</li>
-												<li>國際事務</li>
+												<li>XXX</li>
+												<li>XXX</li>
+												<li>XXX</li>
+												<li>XXX</li>
+												<li>XXX</li>
 											</ol>
 										</div>
 										</div>
