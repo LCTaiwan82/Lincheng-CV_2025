@@ -29,7 +29,7 @@ This is an introduction about me, Lincheng, an industrial journalist in the mach
 							<table>
 									<tbody>
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷</td> 
 											<td>
 	   										<li>博士: 肄業_北美洲原住民語料庫研究</li>
 	   										<li>碩士: 畢業_心理語言學、中國方言學研究</li>
