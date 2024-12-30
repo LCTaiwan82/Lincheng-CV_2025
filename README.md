@@ -14,7 +14,7 @@
 							<img src="Lincheng_CSD+.jpg"> 
 							<h4>林誠</h4>
 							
-							<h4>個人履歷</h4>								
+							<h4>個人履歷</h4>		 						
 							
 								<h6>designed by Evon</h6>  
 							</section>
