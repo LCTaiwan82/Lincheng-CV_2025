@@ -11,7 +11,7 @@
 				<header class="xyz">
 						<div>
 						<section class="aba">
-							<img src="Lincheng_CSD+.jpg">
+							<img src="Lincheng_CSD+.jpg"> 
 							<h4>林誠</h4>
 							
 							<h4>個人履歷</h4>								
