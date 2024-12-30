@@ -101,14 +101,14 @@
 								</section>
 					<hr>
 					<section>
-						<h2>聯繫我請在下留言</h2>
+						<h2>聯繫我請在下方留言</h2>
 						<div class="row">
 							<div class="au">
 								<form method="post" action="">
 									<div class="uniform">
 										<div><input type="text" name="us_name" id="name" placeholder="Name" /></div>
 										<div><input type="password" name="us_pasw" id="email" placeholder="Password" /></div>
-										<div><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
+										<div><textarea name="message" id="message" placeholder="Your Messages" rows="4"></textarea></div>
 										<div><input type="submit" value="Login" /></div>
 									</div>
 								</form>
@@ -117,16 +117,12 @@
 							<div class="bu">
 								<ul>
 									<li>
-										<h4>Address</h4>
+										<h4>職訓地點</h4>
 										臺中火車站旁新時代購物中心五樓
 									</li>
 									<li>
-										<h4>Phone</h4>
+										<h4>職訓地點連絡電話</h4>
 										04-37026688
-									</li>
-									<li>
-										<h4>Email</h4>
-										<a href="mailto:#">lincheng4567@yahoo.com.tw</a>
 									</li>
 								</ul>
 							</div>
