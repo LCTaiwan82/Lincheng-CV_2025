@@ -120,12 +120,12 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please
 							<div class="bu">
 								<ul>
 									<li>
-										<h4>職訓地點</h4>
-										臺中火車站旁新時代購物中心五樓
+										<h4>地點</h4>
+										臺中XXXXXXXXXXXXXXX
 									</li>
 									<li>
-										<h4>職訓地點連絡電話</h4> 
-										04-37026688
+										<h4>連絡電話</h4> 
+										04-XXXX XXXX
 									</li>
 								</ul>
 							</div>
