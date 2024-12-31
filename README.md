@@ -1,5 +1,5 @@
 # Lincheng-CV_2025
-您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。
+您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。<br>
 Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please take a look. 
 
 <html>
@@ -72,7 +72,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">聯絡資訊</td>
 											<td><li>電郵：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
-											<li>手機：0937-470012</li>
+											<li>手機：09XX-XXX XXX</li>
 											</td>	
 										</tr>
 <tr>
