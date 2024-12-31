@@ -16,7 +16,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please
 							<img src="Lincheng_CSD+.jpg"> 
 							<h4>林誠Lincheng</h4>
 							
-							<h4>個人履歷RÉSUMÉ</h4>		 						
+							<h4>個人履歷<br>RÉSUMÉ</h4>		 						
 							
 								<h6>designed by Evon</h6>  
 							</section>
@@ -26,15 +26,15 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please
 				</header>
 				<div>
 						<section class="abb">						
-						<h2>林誠的個人網頁
+						<h2>林誠的個人網頁<br>
       						    Lincheng's Website</h2>
 						
 							<table>
 									<tbody>
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷</td> 
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
 											<td>
-	   										<li>博士: 沒有</li>
+	   										<li>博士: 肄業_北美洲原住民語料庫研究</li>
 	   										<li>碩士: 畢業_心理語言學、中國方言學研究</li>
 	      										<li>學士: 畢業_外語系</li> 
 											</td>	
