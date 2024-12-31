@@ -1,9 +1,11 @@
 # Lincheng-CV_2025
-您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。 
+您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。
+Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please take a look. 
 
 <html>
     <head>
-		<title>林誠CV</title>
+		<title>林誠CV
+		Lincheng</title>
 		<link rel="stylesheet" href="test0806.css">
 		</head> 
 		<body>
@@ -12,9 +14,9 @@
 						<div>
 						<section class="aba">
 							<img src="Lincheng_CSD+.jpg"> 
-							<h4>林誠</h4>
+							<h4>林誠Lincheng</h4>
 							
-							<h4>個人履歷</h4>		 						
+							<h4>個人履歷RÉSUMÉ</h4>		 						
 							
 								<h6>designed by Evon</h6>  
 							</section>
@@ -24,7 +26,8 @@
 				</header>
 				<div>
 						<section class="abb">						
-						<h2>林誠的個人網頁</h2>
+						<h2>林誠的個人網頁
+      						    Lincheng's Website</h2>
 						
 							<table>
 									<tbody>
