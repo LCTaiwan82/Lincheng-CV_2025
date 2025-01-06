@@ -1,6 +1,6 @@
 # Lincheng-CV_2025
 您好，我叫林誠，是一位產業記者。這是我的一個基本的資料介紹。請多多指教。<br>
-Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please take a look. 
+Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take a look. 
 
 <html>
     <head>
@@ -34,11 +34,12 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my short CV. Please
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
 											<td>
-	   										<li>博士: 肄業_北美洲原住民語料庫研究</li>
-	   										<li>碩士: 畢業_心理語言學、中國方言學研究</li>
-	      										<li>學士: 畢業_外語系</li> 
+	   										<li>博士: 肄業_北美洲原住民語料庫研究Ph.D.: Incomplete – Research on North American Indigenous Language Corpora</li>
+	   										<li>碩士: 畢業_心理語言學、中國方言學研究Master's: Graduated – Psycholinguistics, Chinese Dialectology Research</li>
+	      										<li>學士: 畢業_外語系Bachelor's: Graduated – Department of Foreign Languages</li> 
 											</td>	
 										</tr>
+
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
 											<td>
