@@ -29,8 +29,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 						<h2>林誠的個人網頁<br>
       						    Lincheng's Website</h2>
 						
-							<table>
-									
+							<table>							
 
     <tr>
         <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
@@ -52,7 +51,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 
 
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
 											<td>
 	   										<li>1. 媒體代理商_打雜 2024</li>
 											<li>2. 聖僑資訊_打雜 2016-23</li>  
@@ -60,7 +59,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 	   										</td>	
 										</tr>
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域<br>Expertise</td>
 											<td><li>撰文</li>
 												<li>文案編輯</li>
 												<li>網站企劃</li>
@@ -68,12 +67,12 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 												<li>國際事務溝通</li></td>
 										</tr>
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照<br>Certificate</td>
 											<td><li>全民英檢高級</li>
 	   										<li>托福600分</li></td>	
 										</tr>
 	  									<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力<br>Language Proficiency</td>
 											<td>    <li>中文_簡、繁體: 母語溝通、書寫</li>
 	   											<li>中文_粵語、閩南語: 簡單溝通</li>
 												<li>美式英語: 母語溝通、書寫</li>
@@ -82,13 +81,13 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 												<li>法語: 簡單溝通</li></td>
 										</tr>
 										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">聯絡資訊</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">聯絡資訊<br>Contact Info</td>
 											<td><li>電郵：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
 											<li>手機：09XX-XXX XXX</li>
 											</td>	
 										</tr>
 <tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">個性特質</td>
+											<td style="text-align: center; vertical-align: middle; font-size: larger;">個性特質<br>Personality</td>
 											<td><li>休閒活動：睡覺、學習、運動</li>
 											<li>個性特點: 內向害羞、不擅言詞</li>
 											</td>	
