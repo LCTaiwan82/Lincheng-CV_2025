@@ -30,22 +30,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
       						    Lincheng's Website</h2>
 						
 							<table>
-									<tbody>
-										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
-											<td>
-	   										<li>
-											      <span style="padding-left: 20px;">博士: 肄業_北美洲原住民語料庫研究<br><span style="padding-left: 20px;">Ph.D.: Incomplete – Research on North American Indigenous Language Corpora</span></span>
-       											</li>
-	   										<li>
-	      										      <span style="padding-left: 20px;">碩士: 畢業_心理語言學、中國方言學研究<br><span style="padding-left: 20px;">Master's: Graduated – Psycholinguistics, Chinese Dialectology Research
-</span></span>		       									</li>
-	      										<li>
-		  									      <span style="padding-left: 20px;">學士: 畢業_外語系<br><span style="padding-left: 20px;">Bachelor's: Graduated – Department of Foreign Languages</span></span>
-		   									</li> 
-											</td>	
-										</tr>
-
+									
 <tbody>
     <tr>
         <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
@@ -55,10 +40,10 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
                     <span style="padding-left: 10px;">博士: 肄業_北美洲原住民語料庫研究<br><span style="padding-left: 10px;">Ph.D.: Incomplete – Research on North American Indigenous Language Corpora</span></span>
                 </li>
                 <li>
-                    <span style="padding-left: 10px;">碩士: 畢業_心理語言學、中國方言學研究<br>Master's: Graduated – Psycholinguistics, Chinese Dialectology Research</span>
+                    <span style="padding-left: 10px;">碩士: 畢業_心理語言學、中國方言學研究<br><span style="padding-left: 10px;">Master's: Graduated – Psycholinguistics, Chinese Dialectology Research</span></span>
                 </li>
                 <li>
-                    <span style="padding-left: 10px;">學士: 畢業_外語系<br>Bachelor's: Graduated – Department of Foreign Languages</span>
+                    <span style="padding-left: 10px;">學士: 畢業_外語系<br><span style="padding-left: 10px;">Bachelor's: Graduated – Department of Foreign Languages</span></span>
                 </li>
             </ul>
         </td>    
