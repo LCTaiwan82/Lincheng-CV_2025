@@ -42,6 +42,26 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 											</td>	
 										</tr>
 
+<tbody>
+    <tr>
+        <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
+        <td>
+            <ul>
+                <li>
+                    <span style="padding-left: 20px;">博士: 肄業_北美洲原住民語料庫研究<br>Ph.D.: Incomplete – Research on North American Indigenous Language Corpora</span>
+                </li>
+                <li>
+                    <span style="padding-left: 20px;">碩士: 畢業_心理語言學、中國方言學研究<br>Master's: Graduated – Psycholinguistics, Chinese Dialectology Research</span>
+                </li>
+                <li>
+                    <span style="padding-left: 20px;">學士: 畢業_外語系<br>Bachelor's: Graduated – Department of Foreign Languages</span>
+                </li>
+            </ul>
+        </td>    
+    </tr>
+</tbody>
+
+
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷</td>
 											<td>
