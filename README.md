@@ -18,7 +18,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 							
 							<h4>個人履歷<br>RÉSUMÉ</h4>		 						
 							
-								<h6>designed by Evon</h6>  
+								<h6>Designed by Evon</h6>  
 							</section>
 							
 							
@@ -31,7 +31,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 						
 							<table>
 									
-<tbody>
+
     <tr>
         <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
         <td>
@@ -48,7 +48,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
             </ul>
         </td>    
     </tr>
-</tbody>
+
 
 
 										<tr>
