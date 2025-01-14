@@ -124,13 +124,10 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 							</div>
 							<div class="bu">
 								<ul>
-									<li>
-										<h4>地點</h4>
-										臺中XXXXXXXXXXXXXXX
-									</li>
+									
 									<li>
 										<h4>連絡電話</h4> 
-										04-XXXX XXXX
+										0937-470 012
 									</li>
 								</ul>
 							</div>
