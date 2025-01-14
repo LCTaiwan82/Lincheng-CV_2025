@@ -51,7 +51,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 	<td>
 	    <ul>
 		<li>
-		  <span style="padding-left: 10px;">媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency of Gardner Business Media_General Coordination & Support</span></span>
+		  <span style="padding-left: 10px;">媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency_General Coordination & Support</span></span>
 		</li>
 		<li>
 	   	  <span style="padding-left: 10px;">聖僑資訊_專案經理 2016-23<br><span style="padding-left: 10px;">S&J Corp._PM</span></span>
@@ -119,17 +119,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 								</section>
 					<hr>
 					<section>
-						<h2>聯繫我請在下方留言</h2>
-						<div class="row">
-							<div class="au">
-								<form method="post" action="">
-									<div class="uniform">
-										<div><input type="text" name="us_name" id="name" placeholder="Name" /></div>
-										<div><input type="password" name="us_pasw" id="email" placeholder="Password" /></div>
-										<div><textarea name="message" id="message" placeholder="Your Messages" rows="4"></textarea></div>
-										<div><input type="submit" value="Login" /></div>
-									</div>
-								</form>
+			
 								
 							</div>
 							<div class="bu">
