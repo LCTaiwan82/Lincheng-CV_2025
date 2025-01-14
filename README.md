@@ -46,17 +46,16 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
     </tr>
 
 
-
-										<tr>
-											<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
-											<td>
-	   										<li>
-	      										 <span style="padding-left: 10px;">1. 媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency of Gardner Business Media_General Coordination and Support</span></span>
-		 									</li>
-											<li>
-	   										2. 聖僑資訊_打雜 2016-23
-	      										</li>  
-											<li>
+					<tr>
+					<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
+					<td>
+					<li>
+					  <span style="padding-left: 10px;">媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency of Gardner Business Media_General Coordination & Support</span></span>
+					</li>
+					<li>
+	   				  <span style="padding-left: 10px;">聖僑資訊_專案經理 2016-23<br><span style="padding-left: 10px;">S&J Corp._PM</span></span>
+	      				</li>  
+					<li>
 	   										3. 瑞士榮格集團_記者 2012-15
 	      										</li>
 	   										</td>	
