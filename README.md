@@ -32,7 +32,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 							<table>							
 
     <tr>
-        <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
+      <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
         <td>
             <ul>
                 <li>
@@ -47,18 +47,18 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 
 
   <tr>
-	<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
+    <td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
 	<td>
-		<ul>
-					<li>
-					  <span style="padding-left: 10px;">媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency of Gardner Business Media_General Coordination & Support</span></span>
-					</li>
-					<li>
-	   				  <span style="padding-left: 10px;">聖僑資訊_專案經理 2016-23<br><span style="padding-left: 10px;">S&J Corp._PM</span></span>
-	      				</li>  
-					<li>
-	   				  <span style="padding-left: 10px;">瑞士榮格集團_記者 2012-15<br><span style="padding-left: 10px;">Ringier AG in China_Journalist</span></span>
-	      				</li>
+	    <ul>
+		<li>
+		  <span style="padding-left: 10px;">媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency of Gardner Business Media_General Coordination & Support</span></span>
+		</li>
+		<li>
+	   	  <span style="padding-left: 10px;">聖僑資訊_專案經理 2016-23<br><span style="padding-left: 10px;">S&J Corp._PM</span></span>
+	      	</li>  
+		<li>
+	   	  <span style="padding-left: 10px;">瑞士榮格集團_記者 2012-15<br><span style="padding-left: 10px;">Ringier AG in China_Journalist</span></span>
+	      	</li>
 		<ul>	
 	</td>	
 </tr>
@@ -80,7 +80,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 											<td>    <li>中文_簡、繁體: 母語溝通、書寫</li>
 	   											<li>中文_粵語、閩南語: 簡單溝通</li>
 												<li>美式英語: 母語溝通、書寫</li>
-												<li>奧地利德語: 簡單溝通</li>
+												<li>德語: 簡單溝通</li>
 												<li>現代希伯來語: 簡單溝通</li>
 												<li>法語: 簡單溝通</li></td>
 										</tr>
