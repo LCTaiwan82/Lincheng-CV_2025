@@ -46,9 +46,10 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
     </tr>
 
 
-						<tr>
-					<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
-					<td>
+  <tr>
+	<td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
+	<td>
+		<ul>
 					<li>
 					  <span style="padding-left: 10px;">媒體代理商_溝通與管理人員 2024-25<br><span style="padding-left: 10px;">Media Agency of Gardner Business Media_General Coordination & Support</span></span>
 					</li>
@@ -58,8 +59,9 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 					<li>
 	   				  <span style="padding-left: 10px;">瑞士榮格集團_記者 2012-15<br><span style="padding-left: 10px;">Ringier AG in China_Journalist</span></span>
 	      				</li>
-	   					</td>	
-										</tr>
+		<ul>	
+	</td>	
+</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域<br>Expertise</td>
 											<td><li>撰文</li>
