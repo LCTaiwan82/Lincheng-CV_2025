@@ -61,7 +61,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 	      	</li>
 		<ul>	
 <td>	</td>	
-<tr></tr></tr>
+<tr></tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域<br>Expertise</td>
 											<td><li>撰文Original Article Writing</li>
