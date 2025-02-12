@@ -102,7 +102,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 					<hr>			
 								<section>				
 									
-								<h2>我的作品</h2>
+								<h2>我的作品My Works</h2>
 								<div>
 										<div class="au">
 											<ol>
