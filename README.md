@@ -29,7 +29,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 						<h2>林誠的個人網頁<br>
       						    Lincheng's CV Website</h2>
 						
-							<table>							
+<table>							
 
     <tr>
       <td style="text-align: center; vertical-align: middle; font-size: larger;">學歷<br>Education</td> 
@@ -97,8 +97,8 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 											</td>	
 										</tr>
 											   
-									</tbody>
-								</table>
+							<body>		</tbody>
+							<table>	</table>
 					<hr>			
 								<section>				
 									
