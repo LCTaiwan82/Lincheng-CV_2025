@@ -47,7 +47,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 
 
   <tr>
-    <td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experiece</td>
+    <td style="text-align: center; vertical-align: middle; font-size: larger;">經歷<br>Experience</td>
 	<td>
 	    <ul>
 		<li>
@@ -60,8 +60,8 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 	   	  <span style="padding-left: 10px;">瑞士榮格集團_記者 2012-15<br><span style="padding-left: 10px;">Ringier AG in China_Journalist</span></span>
 	      	</li>
 		<ul>	
-	</td>	
-</tr>
+<td>	</td>	
+<tr></tr></tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域<br>Expertise</td>
 											<td><li>撰文Original Article Writing</li>
