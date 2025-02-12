@@ -18,7 +18,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 							
 							<h4>個人履歷<br>RÉSUMÉ</h4>		 						
 							
-								<h6>Designed by Evon</h6>  
+								<h6> </h6>  
 							</section>
 							
 							
@@ -27,7 +27,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 				<div>
 						<section class="abb">						
 						<h2>林誠的個人網頁<br>
-      						    Lincheng's Website</h2>
+      						    Lincheng's CV Website</h2>
 						
 							<table>							
 
@@ -77,17 +77,17 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 										</tr>
 	  									<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力<br>Language Proficiency</td>
-											<td>    <li>中文_簡、繁體: 母語溝通、書寫</li>
-	   											<li>中文_粵語、閩南語: 簡單溝通</li>
-												<li>美式英語: 母語溝通、書寫</li>
-												<li>德語: 簡單溝通</li>
-												<li>現代希伯來語: 簡單溝通</li>
-												<li>法語: 簡單溝通</li></td>
+											<td>    <li>中文CN_簡、繁體: 母語溝通、書寫</li>
+	   											<li>中文CN_粵語、閩南語: 簡單溝通</li>
+												<li>美式英語AmE: 母語溝通、書寫</li>
+												<li>德語DE: 簡單溝通</li>
+												<li>現代希伯來語עִבְרִית: 簡單溝通</li>
+												<li>法語FR: 簡單溝通</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">聯絡資訊<br>Contact Info</td>
 											<td><li>電郵：<a href="mailto:#">lincheng4567@yahoo.com.tw</a></li>
-											<li>手機：09XX-XXX XXX</li>
+											<li>手機：+886 937-470 012</li>
 											</td>	
 										</tr>
 <tr>
