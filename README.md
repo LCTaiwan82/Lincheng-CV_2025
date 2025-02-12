@@ -64,25 +64,25 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 </tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域<br>Expertise</td>
-											<td><li>撰文</li>
-												<li>文案編輯</li>
-												<li>網站企劃</li>
-												<li>專案管理</li>
-												<li>國際事務溝通</li></td>
+											<td><li>撰文Original Article Writing</li>
+												<li>文案編輯Content Editing</li>
+												<li>網站企劃Website Design</li>
+												<li>專案管理Project Management</li>
+												<li>國際事務溝通Int'l Communication</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照<br>Certificate</td>
-											<td><li>全民英檢高級</li>
-	   										<li>托福600分</li></td>	
+											<td><li>全民英檢高級GEPT</li>
+	   										<li>托福TOEFL600分</li></td>	
 										</tr>
 	  									<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力<br>Language Proficiency</td>
-											<td>    <li>中文CN_簡、繁體: 母語溝通、書寫</li>
-	   											<li>中文CN_粵語、閩南語: 簡單溝通</li>
-												<li>美式英語AmE: 母語溝通、書寫</li>
-												<li>德語DE: 簡單溝通</li>
-												<li>現代希伯來語עִבְרִית: 簡單溝通</li>
-												<li>法語FR: 簡單溝通</li></td>
+											<td>    <li>中文CN_簡Simplified、繁體Traditional: 母語溝通、書寫Mother Tongue</li>
+	   											<li>中文CN_粵語Cantonese、閩南語Southern Min: 簡單溝通Basic</li>
+												<li>美式英語AmE: 母語溝通、書寫Mother Tongue</li>
+												<li>德語DE: 簡單溝通Basic</li>
+												<li>現代希伯來語עִבְרִית: 簡單溝通Basic</li>
+												<li>法語FR: 簡單溝通Basic</li></td>
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">聯絡資訊<br>Contact Info</td>
@@ -92,8 +92,8 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 										</tr>
 <tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">個性特質<br>Personality</td>
-											<td><li>休閒活動：睡覺、學習、運動</li>
-											<li>個性特點: 內向害羞、不擅言詞</li>
+											<td><li>休閒活動Leisure Activity：學習Studying、運動Exercising</li>
+											<li>個性特點Personality: 內向害羞Introvert</li>
 											</td>	
 										</tr>
 											   
