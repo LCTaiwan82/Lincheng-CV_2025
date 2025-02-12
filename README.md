@@ -106,7 +106,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 								<div>
 										<div class="au">
 											<ol>
-												<li> https://www.mmsonline.com/articles/a-peek-inside-tmts (找TMTS 2024的資料收集Data Collection) </li>
+												<li> https://www.mmsonline.com/articles/a-peek-inside-tmts (TMTS 2024資料收集Data Collection) </li>
 												<li> https://www.youtube.com/watch?v=l0GH5KTFWpg (Machinery Report) </li>
 												<li> https://cloudcdn.taiwantradeshows.com.tw/2025/timtos/edm/timtos_1st_tc.html (TIMTOS E-news)</li>
 											</ol>
