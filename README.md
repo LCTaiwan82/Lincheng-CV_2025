@@ -106,16 +106,13 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 								<div>
 										<div class="au">
 											<ol>
-												<li>XXX (找TMTS 2024的資料收集) </li>
-												<li>XXX (找YouTube BS網址) </li>
-												<li>XXX (找播報磨床視頻) </li>
-												<li>XXX (2017、15、13年TIMTOS 展會快報)</li>
-												<li>XXX (找廠商文章)</li>
+												<li> (https://www.mmsonline.com/articles/a-peek-inside-tmts) (找TMTS 2024的資料收集Data Collection) </li>
+												<li> (https://www.youtube.com/watch?v=l0GH5KTFWpg) (Machinery Report) </li>
+												<li> https://cloudcdn.taiwantradeshows.com.tw/2025/timtos/edm/timtos_1st_tc.html (TIMTOS E-news)</li>
 											</ol>
 										</div>
 										</div>
-										<div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.999010331444!2d-84.35915692405203!3d39.12925397167547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841ab89b9d49753%3A0x25d68459912911a0!2zNjkxNSBWYWxsZXkgQXZlLCBDaW5jaW5uYXRpLCBPSCA0NTI0NOe-juWciw!5e0!3m2!1szh-TW!2stw!4v1735521861288!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
-										</div>
+										
 								</section>
 					<hr>
 					<section>
