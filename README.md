@@ -66,7 +66,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">專長領域<br>Expertise</td>
 											<td><li>撰文Original Article Writing</li>
 												<li>文案編輯Content Editing</li>
-												<li>網站企劃Website Design</li>
+												<li>網站企劃Website Planning</li>
 												<li>專案管理Project Management</li>
 												<li>國際事務溝通Int'l Communication</li></td>
 										</tr>
@@ -92,8 +92,8 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 										</tr>
 <tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">個性特質<br>Personality</td>
-											<td><li>休閒活動Leisure Activity：學習Studying、運動Exercising</li>
-											<li>個性特點Personality: 內向害羞Introvert</li>
+											<td><li>休閒活動Leisure Activities：學習Studying、運動Exercising</li>
+											<li>個性特點Personality: 內向害羞Introvert Nature</li>
 											</td>	
 										</tr>
 											   
