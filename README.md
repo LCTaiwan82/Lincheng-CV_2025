@@ -97,7 +97,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 											</td>	
 										</tr>
 											   
-							<body>		</tbody>
+							<tbody>		</tbody>
 							<table>	</table>
 					<hr>			
 								<section>				
