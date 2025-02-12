@@ -78,7 +78,7 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 	  									<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力<br>Language Proficiency</td>
 											<td>    <li>中文_簡Simplified CN、繁Traditional CN: 母語 Mother Tongue</li>
-	   											<li>中文_粵語Cantonese、閩南語Southern Min: 簡單溝通Basic</li>
+	   											<li>地方語言Reginal_粵語Cantonese、閩南語Southern Min: 簡單溝通Basic</li>
 												<li>美式英語AmE: 母語 Mother Tongue</li>
 												<li>德語DE: 簡單溝通Basic</li>
 												<li>現代希伯來語עִבְרִית: 簡單溝通Basic</li>
