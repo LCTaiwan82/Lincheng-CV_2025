@@ -72,8 +72,8 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 										</tr>
 										<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">證照<br>Certificate</td>
-											<td><li>全民英檢高級GEPT</li>
-	   										<li>托福TOEFL600分</li></td>	
+											<td><li>全民英檢高級GEPT Advanced Level</li>
+	   										<li>托福TOEFL: 600</li></td>	
 										</tr>
 	  									<tr>
 											<td style="text-align: center; vertical-align: middle; font-size: larger;">語言能力<br>Language Proficiency</td>
@@ -141,5 +141,5 @@ Hi, this is Lincheng. I am an industrial journalist. Here is my CV. Please take 
 	<body>	</body>
 
 
-<html>
+
 </html>
